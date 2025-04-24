@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92105139104",
+    "project_id": "chave-de-rotina",
+    "storage_bucket": "chave-de-rotina.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92105139104:android:5323037aa0e83c2144bac5",
+        "android_client_info": {
+          "package_name": "com.chavederotina.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BodTZa2KRsYQVtbUdLrTQy1imSN0G-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
