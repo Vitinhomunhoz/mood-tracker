@@ -44,12 +44,35 @@ pnpm install
 
 3. Inicie o servidor de desenvolvimento:
 pmpn dev
-
+   
 4. Acesse o aplicativo: Abra o navegador e acesse
  http://localhost:3000.
 
 Link para Testar
 Versão Web: Mood Tracker Web
 Download do APK: Mood Tracker APK
+
+#### Aréa Login:
+
+![image](https://github.com/user-attachments/assets/d7c8611b-8d4c-4002-a860-f60f20d122d1)
+
+#### Cadastrar:
+
+![image](https://github.com/user-attachments/assets/05ea590e-7747-42c2-a1f9-b4248a6b55ae)
+
+#### Inteface:
+
+![image](https://github.com/user-attachments/assets/c65de89d-06f7-4956-813a-ca7fe28ebf30)
+
+#### Histórico de humor: 
+
+![image](https://github.com/user-attachments/assets/aa70e2af-ab15-4367-87df-636bb38b1876)
+
+### Tendencia de humor: 
+
+![image](https://github.com/user-attachments/assets/94717e9f-c30b-404a-adaf-ac780df9a826)
+
+
+
 
 
