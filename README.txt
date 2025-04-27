@@ -1,3 +1,4 @@
+Link para acesso do meu app: https://mood-tracker-nu-pink.vercel.app
 # Mood Tracker
 
 O **Mood Tracker** é um aplicativo desenvolvido para ajudar os usuários a monitorar e analisar seus estados emocionais ao longo do tempo. Ele permite registrar humores diários, visualizar gráficos de humor e acompanhar tendências emocionais, promovendo maior autoconhecimento e bem-estar.
